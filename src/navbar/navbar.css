@@ -1,0 +1,37 @@
+/*.burger {*/
+/*    display:none;*/
+/*}*/
+
+/*.route-button {*/
+/*    display: inline-flex;*/
+/*}*/
+
+/*@media only screen and (max-width: 600px) {*/
+/*    .burger {*/
+/*        display: inline-flex;*/
+/*    }*/
+/*    .route-button {*/
+/*        display: none;*/
+/*    }*/
+/*}*/
+
+
+/*.navbar {*/
+/*    background: orange;*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    align-items: center*/
+/*}*/
+
+/*.navbar-menu {*/
+/*    list-style: none;*/
+/*    display: flex;*/
+/*    justify-content: flex-end;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.navbar-item a {*/
+/*    background: pink;*/
+/*    display: block;*/
+/*    padding: 15px 10px;*/
+/*}*/
